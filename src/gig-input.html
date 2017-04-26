@@ -211,6 +211,7 @@
           }
         },
         blurEvent: function(e) {
+          this.value = this.$.input.value;
           this.invalid = false;
           this.maxLengthShow = false;
           this._getValidity();
