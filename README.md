@@ -1,5 +1,7 @@
 # gig-input
 
+This is a fork from original repo, because we don't have access.
+
 [Gigigo](http://www.gigigo.com/app/en/home) Webcomponent to manage input
 
 ## Installation
